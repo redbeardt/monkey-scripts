@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name        Clickable DOI & PMID PubMed links to Sci-Hub
 // @homepageURL https://github.com/redbeardt/monkey-scripts/
-// @downloadURL https://github.com/redbeardt/monkey-scripts/userscripts/doi-to-scihub.js
-// @updateURL   https://github.com/redbeardt/monkey-scripts/userscripts/doi-to-scihub.js
+// @downloadURL https://raw.githubusercontent.com/redbeardt/monkey-scripts/master/userscripts/doi-to-scihub.js
+// @updateURL   https://raw.githubusercontent.com/redbeardt/monkey-scripts/master/userscripts/doi-to-scihub.js
 // @namespace   https://github.com/redbeardt/monkey-scripts/
 // @match       http*://pubmed.ncbi.nlm.nih.gov/*
 // @grant       none
-// @version     v0.r1.i2
+// @version     v0.r1.i3
 // @author      redbeardt
 // @description 5/20/2020, 12:15:56 PM
 // ==/UserScript==

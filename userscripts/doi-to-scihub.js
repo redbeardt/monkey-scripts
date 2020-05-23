@@ -6,7 +6,7 @@
 // @namespace   https://github.com/redbeardt/monkey-scripts/
 // @match       http*://pubmed.ncbi.nlm.nih.gov/*
 // @grant       none
-// @version     v0.r1.i3
+// @version     0.1.4
 // @author      redbeardt
 // @description 5/20/2020, 12:15:56 PM
 // ==/UserScript==
